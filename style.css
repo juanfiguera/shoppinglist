@@ -1,0 +1,63 @@
+* {
+  margin:0;
+  padding:0;
+ 
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+/* navigation */
+nav {
+    text-align: center;
+	font-family: helvetica;
+	margin: 30px auto;
+/*	width: 850px;*/
+	color: #aaa;
+}
+nav h1 {
+	font-size: 45px;
+}
+.wrapper {
+  margin:0;
+  padding:0;
+}
+
+/* container */
+.container{
+	font-family: helvetica;
+	text-align: center;
+}
+
+
+.newItem{
+	background: #fff;
+
+}
+
+.itemsOnShoppingList {
+	margin: 15px;
+	color: #82CAFF;
+}
+.itemsOnShoppingList li{
+	list-style-type: none;
+	font-size: 30px;
+}
+.itemsOnShoppingList li:hover{
+	background-color: #eee; 
+}
+.itemsOnShoppingList p{
+	font-size: 15px;
+}
+
+
+/* footer */
+footer {
+	clear: both;
+	width: 980px;
+	height: 40px;
+}
+footer p {
+	text-align: right;
+}
