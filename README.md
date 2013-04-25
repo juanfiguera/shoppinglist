@@ -1,1 +1,1 @@
-Shopping List app with jQuery.
+Shopping List app with jQuery
